@@ -40,4 +40,4 @@ See the official [Realm release notes](https://github.com/realm/realm-swift/rele
 In your `Dependencies.swift` file:
 
 ```swift
-.package(url: "https://github.com/your-org/Realm-for-Tuist.git", from: "1.0.0")
+.package(url: "https://github.com/your-org/Realm-for-Tuist.git", from: "20.0.2")
